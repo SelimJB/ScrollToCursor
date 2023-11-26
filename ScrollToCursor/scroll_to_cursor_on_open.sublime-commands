@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "ScrollToCursor: Open Settings",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/ScrollToCursor/scroll_to_cursor_on_open.sublime-settings"
+        }
+    }
+]
