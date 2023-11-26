@@ -1,0 +1,15 @@
+{
+    // This plugin adjusts the scroll position of a document in Sublime Text when it is opened for the first time.
+    // It does not affect the scroll position on subsequent activations of the same file within a session.
+    // The settings below allow you to control this behavior, including whether to enable this feature,
+    // and where to scroll the document when no cursor is detected on the first open.
+
+    // Controls whether the plugin will automatically scroll to the cursor when a file is opened for the first time. 
+    "enable_scroll_to_cursor": true,
+
+    // Determines the default scroll position when no cursor is found upon opening a file. 
+    // If true, the view scrolls to the top of the document. If false, it scrolls to the bottom.
+    "scroll_to_top_if_no_cursor": true,
+
+    "verbose": false
+}
