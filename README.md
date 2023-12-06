@@ -4,6 +4,8 @@ ScrollToCursor is a Sublime Text plugin that centers the view on the cursor's la
 
 ## Install
 
+ScrollToCursor can be easily installed via [Package Control](http://wbond.net/sublime_packages/package_control).
+
 ### Manual Install
 
-Unzip [this archive](https://github.com/SelimJB/ScrollToCursor/archive/1.1.0.zip) into the Sublime Text Packages directory.
+Unzip [this archive](https://github.com/SelimJB/ScrollToCursor/archive/1.1.1.zip) into the Sublime Text Packages directory.
