@@ -1,9 +1,10 @@
 [
-    {
-        "caption": "ScrollToCursor: Open Settings",
-        "command": "open_file",
-        "args": {
-            "file": "${packages}/ScrollToCursor/scroll_to_cursor_on_open.sublime-settings"
-        }
-    }
+	{
+		"caption": "Preferences: ScrollToCursor Settings",
+		"command": "edit_settings",
+		"args": {
+			"base_file": "${packages}/ScrollToCursor/scroll_to_cursor_on_open.sublime-settings",
+			"default": "{\n$0\n}\n"
+		}
+	}
 ]

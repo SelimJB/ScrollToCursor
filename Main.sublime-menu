@@ -1,0 +1,25 @@
+[
+	{
+		"id": "preferences",
+		"children": [
+			{
+				"id": "package-settings",
+				"children": [
+					{
+						"caption": "ScrollToCursor",
+						"children": [
+							{
+								"caption": "Settings",
+								"command": "edit_settings",
+								"args": {
+									"base_file": "${packages}/ScrollToCursor/scroll_to_cursor_on_open.sublime-settings",
+									"default": "{\n$0\n}\n"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
